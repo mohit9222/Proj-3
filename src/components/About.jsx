@@ -32,66 +32,62 @@ const About = () => {
   return (
     <div className="-mt-[6rem]">
       <motion.div variants={textVariant()}>
-        <h2 className={styles.sectionHeadText}>
-          IT - Financial Planning - Capital Expense.
-        </h2>
+        <h2 className={styles.sectionHeadText}>Business Resilience - BCDR.</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        I spearheaded transformative efforts to drive innovation, launch new
-        products, and enhance existing services. With a relentless focus on
-        delivering exceptional customer experiences, I led cross-functional
-        teams through every stage of the project lifecycle, from ideation to
-        successful implementation.
+        I spearheaded the business continuity and disaster recovery project for
+        my organization, while focusing to safeguard operations and ensure
+        resilience in the face of unforeseen challenges. Leveraging my expertise
+        in risk management and strategic planning, I developed robust processes
+        and emergency response plans to mitigate risks and minimize disruptions
+        to business operations.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        Drawing on my extensive experience in program management, I collaborated
-        closely with product, security, and technology teams to ensure the
-        seamless execution of projects. By fostering a culture of collaboration
-        and innovation, I leveraged agile principles to drive efficiency,
-        adaptability, and continuous improvement.
+        I meticulously documented these plans, ensuring clarity and
+        accessibility to key stakeholders. Recognizing the importance of
+        preparedness, I led comprehensive testing exercises to validate the
+        effectiveness of our plans and identify areas for improvement.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        Through strategic vendor partnerships and contract negotiations, I
-        optimized vendor relationships and service level agreements (SLAs) to
-        align with our business objectives and customer needs. Passionate about
-        working on projects end-to-end, I prioritized customer-centricity,
-        ensuring that every initiative was tailored to meet and exceed customer
-        expectations.
+        During the unprecedented challenges posed by the Covid-19 pandemic, I
+        played a pivotal role in activating our business continuity plans and
+        ensuring seamless operations across global teams. By collaborating
+        closely with teams across different time zones, I facilitated the
+        implementation of best practices and protocols to safeguard our
+        workforce and maintain business continuity.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        In this role, I actively engaged with security teams to identify
-        vulnerabilities and design robust solutions to mitigate risks and
-        safeguard our systems and data. With a strong understanding of ISO
-        product management principles, I implemented best practices to ensure
-        quality, security, and compliance across our product portfolio.
+        Despite the uncertainties of the pandemic, I am proud to say that our
+        operations remained uninterrupted, thanks to our proactive planning and
+        swift response efforts. Regular communication and updates to leadership
+        ensured transparency and alignment on our strategies, leading to a
+        highly successful outcome.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[16px] max-w-8xl leading-[30px]"
       >
-        Proficient in tools such as Power BI and Jira, I utilized data-driven
-        insights and agile methodologies to drive informed decision-making and
-        streamline project management processes. By participating in tech
-        reviews and staying abreast of industry trends, I remained at the
-        forefront of technological innovation, driving forward-thinking
-        solutions that propelled towards success.
+        This experience reinforced my commitment to ensuring the resilience and
+        sustainability of our organization, and I am passionate about leveraging
+        my expertise to drive continuous improvement and preparedness for future
+        challenges.
       </motion.p>
 
       {/* <div className="mt-20 flex flex-wrap gap-10">
